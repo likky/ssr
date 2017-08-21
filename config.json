@@ -6,7 +6,7 @@
     "local_port": 1080,
 
     "password": "m",
-    "method": "aes-128-ctr",
+    "method": "aes-256-cfb",
     "protocol": "auth_aes128_md5",
     "protocol_param": "",
     "obfs": "tls1.2_ticket_auth_compatible",
